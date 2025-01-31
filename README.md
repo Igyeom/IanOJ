@@ -15,12 +15,12 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 ## Credits
 
 ### Badges
-Tier 1: 1 problem contributed
-Tier 2: 5 problems contributed
-Tier 3: 20 problems contributed
-Tier 4: 50 problems contributed
-Tier 5: 100 problems contributed
-Tier 6: 200 problems contributed
+- Tier 1: 1 problem contributed
+- Tier 2: 5 problems contributed
+- Tier 3: 20 problems contributed
+- Tier 4: 50 problems contributed
+- Tier 5: 100 problems contributed
+- Tier 6: 200 problems contributed
 
 ### Leaderboard
 A contribution leaderboard can be found [here](https://ianoj.com/contributions).
