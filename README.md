@@ -3,6 +3,8 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 
 # Contributing
 
+Note: submitting a custom problem gains you 0 contribution points, but you can do so for fun.
+
 ## Instructions
 1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive.
 2. Use the [problem creation page](https://ianoj.com/problem-creator) to fill in the details of the problem. Use [LaTeX](https://en.m.wikipedia.org/wiki/LaTeX) where appropriate.
