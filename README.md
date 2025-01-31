@@ -6,7 +6,7 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 ## Contribution Points
 - The level of contribution from a user is determined by their contribution points (shortened to CP lol)
 - Archiving a KL Coding Cup problem gains you **2 contribution points**, and peer-checking gains you **1 contribution point**.
-- Note: creating a custom problem gains you **0 contribution points**, but you can do so for fun.
+- Note: creating/checking a custom problem gains you **0 contribution points**, but you can do so for fun.
 
 ## Instructions
 1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive.
