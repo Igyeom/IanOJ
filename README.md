@@ -22,5 +22,5 @@ Tier 4: 50 problems contributed
 Tier 5: 100 problems contributed
 Tier 6: 200 problems contributed
 
-## Leaderboard
+### Leaderboard
 A contribution leaderboard can be found [here](https://ianoj.com/contributions).
