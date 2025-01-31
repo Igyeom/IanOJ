@@ -1,9 +1,12 @@
 # Overview
-Welcome to the official IanOJ repository. Currently, this repo serves as a place where users can contribute problems from the KL Coding Cup to be archived on IanOJ. Right now, the biggest problem is actually transferring the problem statements to the website and getting test data for each problem. Anyone who contributes can get a Contributor badge with a tier based on how many problems they have archived.
+Welcome to the official IanOJ repository. Currently, this repo serves as a place where users can contribute problems from the KL Coding Cup to be archived on IanOJ. Right now, the biggest problem is actually transferring the problem statements to the website and getting test data for each problem. Anyone who contributes can get a Contributor badge with a tier based on how many problems they have helped archive.
 
 # Contributing
 
-Note: submitting a custom problem gains you 0 contribution points, but you can do so for fun.
+## Contribution Points
+The level of contribution from a user is determined by their contribution points (shortened to CP lol)
+Archiving a KL Coding Cup problem gains you **2 contribution points**, and peer-checking gains you **1 contribution point**.
+Note: creating a custom problem gains you **0 contribution points**, but you can do so for fun.
 
 ## Instructions
 1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive.
