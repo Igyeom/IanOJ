@@ -10,7 +10,7 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 
 ## Instructions
 1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive.
-2. Use the [problem creation page](https://ianoj.com/problem-creator) to fill in the details of the problem. Use [LaTeX](https://en.m.wikipedia.org/wiki/LaTeX) where appropriate.
+2. Use the [problem creation page](https://ianoj.com/problem-creator) to fill in the details of the problem. Use [LaTeX](https://en.m.wikipedia.org/wiki/LaTeX) where appropriate. (inline LaTeX should be wrapped with dollar signs, like `$this$`
 3. Use the **Show Preview** button to check that the problem looks correct.
 4. Press **Update JSON Data** and then copy the JSON to your clipboard.
 5. Next, solve the problem (generative AI is allowed as long as it provides a 100% accurate solution, although not recommended) and generate random test cases using the [test case creation page](https://ianoj.com/test-case-creator).
