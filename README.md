@@ -1,6 +1,8 @@
 # Overview
 Welcome to the official IanOJ repository. Currently, this repo serves as a place where users can contribute problems from the KL Coding Cup to be archived on IanOJ. Right now, the biggest problem is actually transferring the problem statements to the website and getting test data for each problem. Anyone who contributes can get a Contributor badge with a tier based on how many problems they have helped archive.
 
+~~polygon support coming soon, i promise~~
+
 # Contributing
 
 ## Contribution Points
