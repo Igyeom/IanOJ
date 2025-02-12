@@ -31,4 +31,4 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 - Tier 6: 500 points
 
 ### Leaderboard
-A contribution leaderboard can be found [here](https://ianoj.com/contributions).
+A contribution leaderboard will be created soon. If you contribute before the contribution leaderboard is created, don't worry: your points will be transferred to the leaderboard anyway.
