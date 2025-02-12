@@ -11,7 +11,7 @@ Welcome to the official IanOJ repository. Currently, this repo serves as a place
 - Note: creating/checking a custom problem gains you **0 contribution points**, but you can do so for fun.
 
 ## Instructions
-1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive.
+1. Find a problem from the [KL Coding Cup resources page](https://ianoj.com/klcc) to archive. (Go to the Drive folder)
 2. Use the [problem creation page](https://ianoj.com/problem-creator) to fill in the details of the problem. Use [LaTeX](https://en.m.wikipedia.org/wiki/LaTeX) where appropriate. (inline LaTeX should be wrapped with dollar signs, like `$this$`)
 3. Use the **Show Preview** button to check that the problem looks correct.
 4. Press **Update JSON Data** and then copy the JSON to your clipboard.
